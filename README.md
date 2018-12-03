@@ -1,1 +1,1 @@
-# language_detection
+# azure-language-detection
