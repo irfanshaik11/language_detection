@@ -60,6 +60,6 @@ Unidecode==1.0.22
 urllib3==1.23
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wsgi-request-logger==0.4.6
 zappa==0.46.2
