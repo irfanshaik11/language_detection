@@ -57,7 +57,7 @@ toml==0.10.0
 tqdm==4.19.1
 troposphere==2.3.1
 Unidecode==1.0.22
-urllib3==1.23
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 Werkzeug==0.14.1
