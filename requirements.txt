@@ -35,7 +35,7 @@ LinkChecker==9.3
 MarkupSafe==1.0
 matplotlib==2.2.3
 ndg-httpsclient==0.5.1
-numpy==1.15.0
+numpy==1.22.0
 pipenv==2018.7.1
 placebo==0.8.1
 pyasn1==0.4.4
